@@ -7,4 +7,6 @@ All version sorted:
   -  körök 1.1                                                                                                          
   -  körök 2 The launguage update                                                                                       
   -  körök 3 music and precision                                                                                        
-  -  körök 3.1 better language chooser        <--last                                                                    
+  -  körök 3.1 better language chooser
+  -  kör 3.1 compact
+  -  kör 4 comp                                 <--last                                                                    
