@@ -1,4 +1,4 @@
-Most recent version: körök 3.1 better language chooser   
+Most recent version: kör 4 comp  
 
 All version sorted:                                                                                                            
   -  prealfa.py                                <-- first                                                                
