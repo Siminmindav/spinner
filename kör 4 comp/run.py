@@ -192,16 +192,16 @@ if nyelv == "magyar":
     ]
 
     developer = [
-        "Tervezte: Siminmin",
         "Készítette: Siminmin",
-        "Programozta: Siminmin",
-        "Rajzolta: Siminmin",
-        "Zenét szerezte: Frédéric Chopin",
-        "Zenét előadta:",
-        "Alfonso Bertazzi -- Tristan Hudson",
-        "Chiara Bertoglio -- Pantelis Assimakopoulos",
-        "John Robson -- George Vosgerichian",
-        "Ken Sasaki -- Joseph Renouf",
+        "",
+        "Zene: Stall C418",
+        "",
+        "github link:https://github.com/Siminmindav/spinner",
+        "",
+        "",
+        "",
+        "Köszönöm, hogy játszottál!",
+        "",
     ]
 if nyelv == "english":
     caption = "Infinite spiral"
