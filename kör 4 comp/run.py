@@ -235,16 +235,16 @@ if nyelv == "english":
     ]
 
     developer = [
-        "Planned by: Siminmin",
-        "Developed by: Siminmin",
-        "Programmed by: Siminmin",
-        "Drawed by: Siminmin",
-        "Music written by: Frédéric Chopin",
-        "Music preformed by:",
-        "Alfonso Bertazzi -- Tristan Hudson",
-        "Chiara Bertoglio -- Pantelis Assimakopoulos",
-        "John Robson -- George Vosgerichian",
-        "Ken Sasaki -- Joseph Renouf",
+        "Made by: Siminmin",
+        "",
+        "Music: Stall by C418",
+        "",
+        "github link:https://github.com/Siminmindav/spinner",
+        "",
+        "",
+        "",
+        "Thanks for playing!",
+        "",
 ]
 
 kijelző = pygame.display.set_mode((1000, 800))
