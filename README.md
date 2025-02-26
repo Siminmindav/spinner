@@ -1,6 +1,6 @@
 Most recent version: kör 4 comp  
 
-Download from: https://download-directory.github.io/?url=https://github.com/Siminmindav/spinner/tree/25bcfe3da52d1070a2f14df7c84cb8305529df6e/k%C3%B6r%204%20comp
+Download from: https://download-directory.github.io/?url=https://github.com/Siminmindav/spinner/blob/af61dd00f59a85e338c6dc28f9aa7a67949b5400/k%C3%B6r%204%20comp/run.py
 
 All version sorted:                                                                                                            
   -  prealfa.py                                <-- first                                                                
