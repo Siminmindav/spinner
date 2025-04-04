@@ -1,6 +1,6 @@
-Most recent version: kör 4 comp  
+Most recent version: kör 5 
 
-Download from: https://download-directory.github.io/?url=https://github.com/Siminmindav/spinner/tree/9e25c6166d7c2cce09d54053cc4d663953d5f884/k%C3%B6r%204%20comp
+Download from: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FSiminmindav%2Fspinner%2Ftree%2Ffcb00bba8909ec48de7342d2b18e90574d339f45%2Fk%25C3%25B6r%25205
 
 All version sorted:                                                                                                            
   -  prealfa.py                                <-- first                                                                
@@ -11,4 +11,5 @@ All version sorted:
   -  körök 3 music and precision                                                                                        
   -  körök 3.1 better language chooser
   -  kör 3.1 compact
-  -  kör 4 comp                                 <--last                                                                    
+  -  kör 4 comp
+  -  kör 5                               <--last                                                                    
