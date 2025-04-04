@@ -1,7 +1,6 @@
 Most recent version: kör 5 
 
-Download from: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FSiminmindav%2Fspinner%2Ftree%2Ffcb00bba8909ec48de7342d2b18e90574d339f45%2Fk%25C3%25B6r%25205
-
+Download from: https://download-directory.github.io/?url=https://github.com/Siminmindav/spinner/tree/d9ddf748f448c6ea3358807744c34164efdd8598/k%C3%B6r%205
 All version sorted:                                                                                                            
   -  prealfa.py                                <-- first                                                                
   -  körök alfa                                                                                                         
