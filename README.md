@@ -1,6 +1,6 @@
 Most recent version: kör 5.1 
 
-Download from: 
+Download from: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FSiminmindav%2Fspinner%2Ftree%2F0fa90ac3d964613025331a6b89719dc0308cf5b9%2Fk%25C3%25B6r%25205.1
 
 All version sorted:                                                                                                            
   -  prealfa.py                                <-- first                                                                
