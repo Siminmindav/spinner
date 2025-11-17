@@ -244,6 +244,7 @@ while True:
                     if onclick(860,370,50,50):
                         print("infó",mentés)
                         perf[2] *= -1
+                        """
                         for kör in körökbe:
                             rész1 = kör.__dict__
                             for k, i in rész1.items():
@@ -257,6 +258,7 @@ while True:
                                             for k3, i3 in rész3.items():
                                                 print(f"\t\t{k3}: {i3}")
                             print(" ")
+                        """
                     if onclick(790,300,50,50):
                         print("mentés")
                         mentés = körökbe[:]
